@@ -7,8 +7,8 @@
   - ```git clone https://github.com/smithasencios/CRUD_With_Golang.git```
 - Instalar git, dep(https://github.com/golang/dep)
 - Cuando Instalar MariaDB, tambien te instala un IDE llamado HeidiSQL, ahi ejecutar los archivos que estan en la carpeta database:
-  - ```database_data_script```
   - ```database_creation_script.sql```
+  - ```database_data_script```
 - Abrir el proyecto con Visual Studio Code, abrir el terminal y ejecutar:
   - ```dep ensure```
 - Para compilar el proyecto ejecutar:
